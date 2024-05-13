@@ -1,0 +1,54 @@
+/*body {
+    background-color: hsl(0, 0%, 8%); 
+}
+
+*/
+
+div.todo {
+   background-color: hsl(0, 0%, 12%);
+   border:0px;
+   padding-top: 1%;
+   padding-bottom: 1%;
+   padding-left: 1%;
+   padding-right: 1%;
+   margin: 15%;
+}
+
+
+h2 {
+    display: flex;
+    justify-content: center;
+    color: hsl(0, 0%, 100%);
+    font-weight: 700;
+}
+
+
+h4 {
+    display: flex;
+    justify-content: center;
+    color:hsl(75, 94%, 57%) ;
+}
+
+p {
+    color:hsl(0, 0%, 100%);
+}
+
+button {
+   display: flex;
+   border-radius: 4%;
+   padding-top: 1%;
+   padding-bottom: 1%;
+   padding-left: 5%;
+   padding-right: 5%;
+   margin: 1%;
+
+   color: hsl(0, 0%, 100%);
+   background-color: hsl(0, 0%, 20%);
+   border: 0;
+   font-weight:400;
+}
+
+button:hover {
+    color:hsl(0, 0%, 12%);
+    background-color: hsl(75, 94%, 57%);
+}
