@@ -2,8 +2,16 @@ body {
     background-color: hsl(0, 0%, 8%); 
 }
 
+
+div.imagen {
+    display: flex;
+    justify-content: center;
+}
+
 img {
-    
+    max-width: 10%;
+    height: auto;
+    border-radius: 50%;
 }
 
 
@@ -13,6 +21,7 @@ div.todo {
    border-radius: 2%;
    padding-left: 1px;
    padding-right: 1px;
+  
 
 }
 
